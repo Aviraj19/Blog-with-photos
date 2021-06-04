@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: cadetblue;
+}
+div {
+    margin-top:25px;
+}
+.Image {
+    display: flex;
+    justify-content: center;
+}
+.Section {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+img {
+    width: 400px;
+}
